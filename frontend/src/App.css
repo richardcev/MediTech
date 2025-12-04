@@ -1,0 +1,45 @@
+.app-container {
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.header {
+  padding: 16px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.dashboard {
+  margin-top: 24px;
+}
+
+.cards {
+  display: flex;
+  gap: 16px;
+  margin-top: 16px;
+  flex-wrap: wrap;
+}
+
+.card {
+  background: #f1f1f1;
+  padding: 16px;
+  border-radius: 12px;
+  flex: 1 1 30%;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.card button {
+  margin-top: 8px;
+  background: #2d6cdf;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 40px;
+  color: #666;
+}
