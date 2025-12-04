@@ -45,7 +45,7 @@ const Dashboard =() =>{
         </main>
   
         <footer className="footer">
-          <p>&copy; 2025 Matt Med</p>
+          <p>&copy; 2025 Medi Tech</p>
         </footer>
       </div>
     )
