@@ -4,7 +4,6 @@
 
 El sistema está construido con una arquitectura moderna separando el Backend (Django REST Framework) del Frontend (React + Vite).
 
-[Image of entity relationship diagram for medical patient database with tables for Patient, MedicalHistory, Consultation, MedicalExam, and VitalSigns]
 
 ## 🚀 Características Principales
 
